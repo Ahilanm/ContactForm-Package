@@ -1,12 +1,12 @@
 {
-    "name": "ahilan/contact",
+    "name": "ahilanm/contact",
     "description": "This is a contact form package",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "ahilan",
-            "email": "ahilmurugesan@gmail.com"
+            "email": "ahilanm@dckap.com"
         }
     ],
     "minimum-stability": "dev",
