@@ -1,0 +1,19 @@
+{
+    "name": "ahilan/contact",
+    "description": "This is a contact form package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ahilan",
+            "email": "ahilmurugesan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Package\\Contact\\": "src/"
+        }
+    }
+}
